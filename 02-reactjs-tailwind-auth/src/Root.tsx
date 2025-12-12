@@ -2,11 +2,11 @@ import { Outlet } from 'react-router-dom';
 import { Navigation } from './Navigation';
 
 function RootLayout() {
-    return (
-        <>
-        <Navigation />
-        <Outlet />
-        </>
-    )
+  return (
+    <>
+      <Navigation />
+      <Outlet />
+    </>
+  );
 }
 export default RootLayout;

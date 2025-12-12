@@ -1,0 +1,8 @@
+# .prettierignore
+node_modules/
+.gitignore
+*.json
+.env
+.env.local
+.DS_Store
+*ignore
